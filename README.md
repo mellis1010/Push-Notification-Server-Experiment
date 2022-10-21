@@ -1,10 +1,5 @@
 Example Push Notification Server
 
-## Installation with Docker
-
-```bash
-$ docker-compose up -d
-```
 
 ## API
 1. Get JWT token (authenticate) :GET  ``/api/v1/identity/authenticate``
